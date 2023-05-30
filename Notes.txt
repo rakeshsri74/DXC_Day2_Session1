@@ -1,0 +1,37 @@
+What is JSP?
+Life Cycle of JSP?
+Difference between Jsp And Servlet?
+
+init
+service
+destroy
+
+JSP Elements?
+	Directive
+	Actions
+	Scripting
+	Comments
+
+Scripting
+	Scriptlets <%	Java code here %>
+	Declarations<%! %>
+	Expression<%= %>
+
+Comment:
+	<!-- comment -->
+	Server side comment
+	<%-- comment --%>
+
+In JSp there are predefind objects that we can use
+	request
+	response
+	page
+	application
+	session
+	out
+	exception
+
+
+
+
+
